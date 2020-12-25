@@ -2,7 +2,7 @@
 
 ### Features:
 * Material-ui Recipe Card Component and Grid for Responsive.
-* Used offset Pagination provided by API.
+* Used offset Pagination provided by Spoonacular API.
 * Recipe details page.
 
 ### Hoisted Heroku Link: 
