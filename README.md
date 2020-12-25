@@ -1,11 +1,12 @@
-## Recipe-app in react
+# Recipe-app in react
 
-# Features:
+## Features:
 * Material-ui Recipe Card Component and Grid for Responsive.
 * Offset Pagination provided by API.
 * Recipe details page.
 
-# Hoisted Link: https://recipe-app-react1.herokuapp.com/recipes
+## Hoisted Link: 
+https://recipe-app-react1.herokuapp.com/recipes
 
-# Note: 
+## Note: 
 API Calls are Limited, I not purchesed the API so API Limit to only 55 API calls in day so sometimes it can give error.
